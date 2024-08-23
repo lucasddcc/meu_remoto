@@ -1,0 +1,16 @@
+Documentação Oficial do Git:
+
+Git Documentation: git-commit
+Pro Git Book:
+https://git-scm.com/docs/git-commit
+
+Pro Git Book - Rewriting History
+Atlassian Git Tutorials:
+
+Atlassian Git Tutorials: Changing a commit message
+FreeCodeCamp Article:
+
+FreeCodeCamp: How to Use Git Commit Amend
+GitKraken Blog:
+
+GitKraken Blog: How to amend a Git commit
